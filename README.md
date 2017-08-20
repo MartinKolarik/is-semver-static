@@ -7,11 +7,17 @@ Check if a version is a semver range or a static version
 ```
 $ npm install is-semver-static
 ```
+or
+
+```
+<script src="https://cdn.jsdelivr.net/npm/is-semver-static@1.0.0"></script>
+```
 
 ## Usage
 
 ```js
-const isSemverStatic = require('is-semver-static');
+const isSemverStatic = require('is-semver-static'); // or window.isSemverStatic
+
 isSemverStatic('1.0.0'); // true
 isSemverStatic('=1.0.0'); // true
 isSemverStatic('v1.0.0'); // true
