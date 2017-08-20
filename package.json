@@ -1,0 +1,27 @@
+{
+	"name": "is-semver-static",
+	"description": "Check if a version is a semver range or a static version",
+	"version": "1.0.0",
+	"homepage": "https://github.com/MartinKolarik/is-semver-static/",
+	"github": "https://github.com/MartinKolarik/is-semver-static/",
+	"main": "index.js",
+	"keywords": [
+		"semver",
+		"version",
+		"static",
+		"range"
+	],
+	"author": {
+		"name": "Martin Kolárik",
+		"email": "martin@kolarik.sk",
+		"url": "https://kolarik.sk"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MartinKolarik/is-semver-static.git"
+	},
+	"bugs": {
+		"url": "https://github.com/MartinKolarik/is-semver-static/issues/"
+	}
+}
