@@ -1,7 +1,7 @@
 {
 	"name": "is-semver-static",
 	"description": "Check if a version is a semver range or a static version",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"homepage": "https://github.com/MartinKolarik/is-semver-static/",
 	"github": "https://github.com/MartinKolarik/is-semver-static/",
 	"main": "index.js",
