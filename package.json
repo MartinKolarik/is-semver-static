@@ -4,7 +4,8 @@
 	"version": "1.0.0",
 	"homepage": "https://github.com/MartinKolarik/is-semver-static/",
 	"github": "https://github.com/MartinKolarik/is-semver-static/",
-	"main": "index.umd.js",
+	"main": "index.js",
+	"browser": "index.umd.js",
 	"keywords": [
 		"semver",
 		"version",
